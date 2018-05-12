@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35985'
     url: http://www.gutenberg.org/2009/agents/35985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32750#The-Sphere-of-Sleep
 gutenberg_issued: '2010-06-09'
 gutenberg_type: Text
 identifiers:
